@@ -1,0 +1,8 @@
+Ambil cangkir
+Ambil kopi instan
+Masukkan bubuk kopi ke dalam cangkir sesuai takaran
+Siapkan air panas. Kalau belum tersedia, panaskan air.
+Tuangkan air panas ke dalam cangkir
+Aduk cangkir hingga kopi larut
+Tambahkan gula atau krimer sesuai selera. Aduk.
+Minum kopi
